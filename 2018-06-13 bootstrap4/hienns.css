@@ -1,0 +1,22 @@
+ul {
+  list-style-type: none;
+}
+li {
+  padding-right: 5mm;
+}
+
+.color-gray {
+  color: #a09d9d;
+}
+
+.wid-500 {
+  width: 550px;
+}
+
+.box-shadow {
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
+}
+
+.pb-8 {
+  padding-bottom: 70px;
+}

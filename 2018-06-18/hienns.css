@@ -1,0 +1,20 @@
+.cam-icon {
+  position: relative;      /* Adjust these values accordingly */
+  top: 5px;
+  left: 0px;
+}
+
+.menu-icon {
+  position: relative;      /* Adjust these values accordingly */
+  top: 3px;
+  left: 0px;
+}
+
+.w-85 { width: 87%; }
+
+.w-60 { width: 62%; }
+
+.my-10 {margin-top: 100px; margin-bottom:100px;}
+
+.h1-font { font-weight: 150; }
+.h5-font {font-weight:120; }
