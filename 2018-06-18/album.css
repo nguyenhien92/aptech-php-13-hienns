@@ -18,3 +18,15 @@
 
 .h1-font { font-weight: 150; }
 .h5-font {font-weight:120; }
+
+ul {
+  list-style-type: none;
+}
+
+li a {
+  color: white;
+}
+
+#demo {
+  transition: display 1s ease-in-out
+}
